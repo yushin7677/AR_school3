@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Ilya\\Unreal\\THFacility-master\\THFacility-master\\THFacility\\Source\\THFacility\\THFacility.Build.cs",
+		"C:\\Ilya\\Unreal\\THFacility-master\\THFacility-master\\THFacility\\Source\\THFacility.Target.cs",
+		"C:\\Ilya\\Unreal\\THFacility-master\\THFacility-master\\THFacility\\Source\\THFacilityEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

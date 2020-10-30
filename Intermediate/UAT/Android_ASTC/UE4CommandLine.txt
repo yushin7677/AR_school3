@@ -1,0 +1,1 @@
+../../../AR_school/AR_school.uproject  /Game/maps/THFacility -Messaging -SessionId=9828B10F45F2F6BA0AE53BBBC21CC549 -SessionOwner="VRU" -SessionName="Launch On Device" -iterative

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "THFacility",
+			"Path": "C:\\Users\\VRU\\Downloads\\THFacility-master (1)\\THFacility-master\\THFacility\\Source\\THFacility.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "THFacilityEditor",
+			"Path": "C:\\Users\\VRU\\Downloads\\THFacility-master (1)\\THFacility-master\\THFacility\\Source\\THFacilityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
