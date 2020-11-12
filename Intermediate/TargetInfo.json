@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "THFacility",
+			"Path": "C:\\Ilya\\Unreal\\AR_school\\AR_school3\\Source\\THFacility.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "THFacilityEditor",
+			"Path": "C:\\Ilya\\Unreal\\AR_school\\AR_school3\\Source\\THFacilityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
